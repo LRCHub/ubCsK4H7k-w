@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Be Selfish",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-04T13:38:42.020978Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Be Selfish",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_Be_Selfish_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Be Selfish (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_Be_Selfish_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Be Selfish",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_Be_Selfish_=LOVE.txt"
+    }
+  ]
+}
